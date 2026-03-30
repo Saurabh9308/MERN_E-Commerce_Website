@@ -40,7 +40,7 @@ const Register = () => {
     e.preventDefault();
     try {
       const response = await axios.post(
-        "http://localhost:8080/api/users/register",
+        "https://auramart-backend-glf6.onrender.com/api/users/register",
         formData,
         { withCredentials: true } // Crucial for cookies
       );

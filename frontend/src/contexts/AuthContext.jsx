@@ -41,7 +41,7 @@ export const AuthProvider = ({ children }) => {
   const logout = async () => {
     try {
       await axios.post(
-        "http://localhost:8080/api/users/logout",
+        "https://auramart-backend-glf6.onrender.com/api/users/logout",
         {},
         { withCredentials: true }
       );

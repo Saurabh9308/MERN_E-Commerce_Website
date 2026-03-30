@@ -62,7 +62,7 @@ const ProductCard = ({ product }) => {
 
       // 2. API Call
       const response = await axios.post(
-        "http://localhost:8080/api/cart/add",
+        "https://auramart-backend-glf6.onrender.com/api/cart/add",
         {
           productId: product._id,
           color: defaultVariant.color,

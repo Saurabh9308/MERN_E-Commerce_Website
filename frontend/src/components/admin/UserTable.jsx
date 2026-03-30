@@ -10,7 +10,7 @@ const UserTable = () => {
   const [loading, setLoading] = useState(true);
 
   const api = axios.create({
-    baseURL: "http://localhost:8080/api",
+    baseURL: "https://auramart-backend-glf6.onrender.com/api",
     withCredentials: true,
   });
 

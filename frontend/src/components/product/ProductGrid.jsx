@@ -13,7 +13,7 @@ const ProductGrid = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await axios.get("http://localhost:8080/api/products/");
+        const response = await axios.get("https://auramart-backend-glf6.onrender.com/api/products/");
 
         // Fix: Access the products array inside response.data
         // Based on your controller, it is either response.data.products or response.data.data

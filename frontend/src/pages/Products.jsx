@@ -29,7 +29,7 @@ const Products = () => {
       try {
         setLoading(true);
         // Using your specific backend port 8080
-        const res = await axios.get("http://localhost:8080/api/products/");
+        const res = await axios.get("https://auramart-backend-glf6.onrender.com/api/products/");
         const data = res.data.products || res.data.data || [];
         setProducts(data);
         setFilteredProducts(data);

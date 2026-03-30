@@ -27,7 +27,7 @@ const Login = () => {
     e.preventDefault();
     try {
       const response = await axios.post(
-        "http://localhost:8080/api/users/login",
+        "https://auramart-backend-glf6.onrender.com/api/users/login",
         formData,
         { withCredentials: true } // Crucial for cookies
       );

@@ -26,14 +26,14 @@ const SingleProduct = () => {
   const [selectedSize, setSelectedSize] = useState("");
 
   const api = axios.create({
-    baseURL: "http://localhost:8080/api",
+    baseURL: "https://auramart-backend-glf6.onrender.com/api",
     withCredentials: true,
   });
 
   useEffect(() => {
     const fetchProduct = async () => {
       try {
-        const res = await axios.get(`http://localhost:8080/api/products/${id}`);
+        const res = await axios.get(`https://auramart-backend-glf6.onrender.com/api/products/${id}`);
         const data = res.data.product || res.data.data;
         setProduct(data);
         setMainImage(data.images[0]);

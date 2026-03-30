@@ -31,7 +31,7 @@ const Checkout = () => {
   const [paymentMethod, setPaymentMethod] = useState("Cash On Delivery");
 
   const api = axios.create({
-    baseURL: "http://localhost:8080/api",
+    baseURL: "https://auramart-backend-glf6.onrender.com/api",
     withCredentials: true,
   });
 

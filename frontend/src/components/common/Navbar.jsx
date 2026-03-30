@@ -25,7 +25,7 @@ const Navbar = () => {
       if (isAuthenticated) {
         try {
           const response = await axios.get(
-            "http://localhost:8080/api/cart",
+            "https://auramart-backend-glf6.onrender.com/api/cart",
             { withCredentials: true }
           );
           const items = response.data.items || [];
