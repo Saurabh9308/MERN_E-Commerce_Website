@@ -17,7 +17,7 @@ const PORT = process.env.PORT || 8080;
 // Middleware
 app.use(express.json({ limit: '10mb' })); // Increase limit for images
 app.use(cors({
-    origin: process.env.CLIENT_URL || 'https://mern-e-commerce-website-sigma.vercel.app/',
+    origin: process.env.CLIENT_URL || 'https://mern-e-commerce-website-sigma.vercel.app',
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
     credentials: true,
     allowedHeaders: ['Content-Type', 'Authorization', 'Cookie']
