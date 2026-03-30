@@ -1,0 +1,2011 @@
+[
+  {
+    "id": "prod-016",
+    "name": "Dusty Rose Anarkali Kurta",
+    "brand": "Aabha",
+    "price": 2999,
+    "mrp": 5999,
+    "description": "Elegant dusty rose Anarkali set featuring intricate thread embroidery with a flowy layered silhouette. Paired with matching bottoms and a soft dupatta, perfect for festive occasions.",
+    "category": "Women",
+    "subCategory": "Anarkali Sets",
+    "fabric": "Georgette & Cotton Blend",
+    "images": [
+      "/images/nooriva_anarkali_01.jpeg",
+      "/images/nooriva_anarkali_02.jpeg",
+      "/images/nooriva_anarkali_03.jpeg",
+      "/images/nooriva_anarkali_04.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Dusty Rose",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 22 },
+          { "size": "L", "stock": 16 },
+          { "size": "XL", "stock": 8 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Anarkali",
+      "Festive Wear",
+      "Wedding Wear",
+      "Embroidered",
+      "Elegant",
+      "Traditional",
+      "Pastel"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-027",
+    "name": "Beige Embroidered Cotton Kurta",
+    "brand": "Riwayat",
+    "price": 2299,
+    "mrp": 4699,
+    "description": "Elegant beige kurta crafted from breathable cotton, featuring intricate golden thread embroidery. Designed with a mandarin collar and classic straight silhouette, ideal for festive gatherings.",
+    "category": "Men",
+    "subCategory": "Kurtas",
+    "fabric": "Cotton",
+    "images": ["/images/beige_kurta_01.jpeg"],
+    "variants": [
+      {
+        "color": "Beige",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 16 },
+          { "size": "XL", "stock": 9 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Kurta",
+      "Embroidered",
+      "Festive Wear",
+      "Traditional",
+      "Light Color",
+      "Minimal Luxury"
+    ],
+    "fit": "Regular Fit",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-045",
+    "name": "Black Minimal Kids Hoodie",
+    "brand": "Urban Thread",
+    "price": 1299,
+    "mrp": 2299,
+    "description": "A sleek black hoodie designed for kids who love comfort with a modern edge. Crafted from a soft cotton blend with a clean minimal design, perfect for everyday wear.",
+    "category": "Kids",
+    "subCategory": "Hoodies",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/black_kids_hoodie_01.jpg",
+      "/images/black_kids_hoodie_02.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          { "size": "S", "stock": 12 },
+          { "size": "M", "stock": 18 }
+        ]
+      }
+    ],
+    "tags": [
+      "Kids Wear",
+      "Hoodie",
+      "Minimal",
+      "Casual",
+      "Winter Wear",
+      "Comfort",
+      "Everyday",
+      "Trendy"
+    ],
+    "fit": "Regular Fit",
+    "designType": "Solid",
+    "occasion": "Casual",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-009",
+    "name": "Maroon Striped Casual Set",
+    "brand": "Urban Muse",
+    "price": 1499,
+    "mrp": 2799,
+    "description": "Chic casual outfit featuring a maroon vertical striped shirt paired with high-waisted beige straight-fit pants. Perfect for everyday wear, office styling, or casual outings.",
+    "category": "Women",
+    "subCategory": "Shirt & Trouser Set",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/tahiliya_maroon_shirt_01.jpeg",
+      "/images/tahiliya_maroon_shirt_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Maroon & Beige",
+        "sizes": [
+          { "size": "S", "stock": 20 },
+          { "size": "M", "stock": 30 },
+          { "size": "L", "stock": 18 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Western",
+      "Casual Wear",
+      "Office Wear",
+      "Minimal",
+      "Striped Shirt",
+      "High Waist Pants"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-032",
+    "name": "Ivory Indo-Western Kurta Set",
+    "brand": "Riwayat",
+    "price": 6999,
+    "mrp": 13999,
+    "description": "Regal ivory Indo-western kurta set featuring intricate embroidery and a matching sleeveless jacket. Paired with dhoti-style bottoms, perfect for weddings and grand festive occasions.",
+    "category": "Men",
+    "subCategory": "Indo-Western Sets",
+    "fabric": "Silk Blend with Embroidery",
+    "images": [
+      "/images/ivory_indo_western_01.jpg",
+      "/images/ivory_indo_western_02.jpg",
+      "/images/ivory_indo_western_03.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          { "size": "S", "stock": 5 },
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 },
+          { "size": "XL", "stock": 7 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Indo-Western",
+      "Kurta Set",
+      "Jacket Set",
+      "Wedding Wear",
+      "Reception Wear",
+      "Luxury",
+      "Designer",
+      "Dhoti Style",
+      "Festive"
+    ],
+    "fit": "Regular Fit",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-048",
+    "name": "Bow Pattern Sweater Skirt Set",
+    "brand": "Urban Thread",
+    "price": 1899,
+    "mrp": 3199,
+    "description": "A trendy outfit set for young girls featuring a soft knit sweater with bow patterns, paired with a classic pleated skirt. Perfect for casual outings and school events.",
+    "category": "Kids",
+    "subCategory": "Clothing Sets",
+    "fabric": "Cotton Blend Knit",
+    "images": [
+      "/images/girls_bow_sweater_set_01.jpg",
+      "/images/girls_bow_sweater_set_02.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Grey & Black",
+        "sizes": [
+          { "size": "S", "stock": 12 },
+          { "size": "M", "stock": 18 }
+        ]
+      },
+      {
+        "color": "Maroon & Black",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 16 }
+        ]
+      }
+    ],
+    "tags": [
+      "Girls Wear",
+      "Sweater Set",
+      "Bow Design",
+      "Winter Wear",
+      "Pleated Skirt",
+      "Stylish",
+      "Casual",
+      "Semi Formal"
+    ],
+    "fit": "Regular Fit",
+    "designType": "Knitted & Printed",
+    "occasion": "Casual",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-002",
+    "name": "Mustard Floral Short Kurti",
+    "brand": "Veda Heritage",
+    "price": 1199,
+    "mrp": 2299,
+    "description": "A chic mustard-brown short kurti featuring vintage-inspired floral print. Designed with a contemporary square neckline and long bell-style sleeves.",
+    "category": "Women",
+    "subCategory": "Short Kurtis & Tops",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/mustard_floral_kurti_01.jpeg",
+      "/images/mustard_floral_kurti_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Mustard Brown",
+        "sizes": [
+          { "size": "S", "stock": 15 },
+          { "size": "M", "stock": 30 },
+          { "size": "L", "stock": 20 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": ["Floral", "Square Neck", "Boho", "Casual Wear", "Mustard"],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-036",
+    "name": "Black Self-Design Kurta",
+    "brand": "Riwayat",
+    "price": 2699,
+    "mrp": 5499,
+    "description": "Elegant black kurta crafted from premium jacquard fabric with subtle self-design motifs. Designed with a mandarin collar and detailed button placket for a refined ethnic look.",
+    "category": "Men",
+    "subCategory": "Kurtas",
+    "fabric": "Jacquard Silk Blend",
+    "images": [
+      "/images/black_self_design_kurta_01.jpg",
+      "/images/black_self_design_kurta_02.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          { "size": "S", "stock": 9 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Kurta",
+      "Jacquard",
+      "Self Design",
+      "Festive Wear",
+      "Evening Wear",
+      "Minimal Luxury",
+      "Traditional"
+    ],
+    "fit": "Regular Fit",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-050",
+    "name": "Textured Polo T-Shirt",
+    "brand": "Urban Thread",
+    "price": 999,
+    "mrp": 1799,
+    "description": "A smart textured polo t-shirt for boys crafted from soft cotton-blend fabric. Features a classic collar and relaxed fit, perfect for casual outings and school wear.",
+    "category": "Kids",
+    "subCategory": "T-Shirts",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/boys_polo_tshirt_01.jpeg",
+      "/images/boys_polo_tshirt_02.jpeg",
+      "/images/boys_polo_tshirt_03.jpeg",
+      "/images/boys_polo_tshirt_04.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Steel Blue",
+        "sizes": [
+          { "size": "S", "stock": 14 },
+          { "size": "M", "stock": 20 }
+        ]
+      },
+      {
+        "color": "Black",
+        "sizes": [
+          { "size": "S", "stock": 13 },
+          { "size": "M", "stock": 19 }
+        ]
+      },
+      {
+        "color": "Sky Blue",
+        "sizes": [
+          { "size": "S", "stock": 15 },
+          { "size": "M", "stock": 21 }
+        ]
+      },
+      {
+        "color": "Mint Green",
+        "sizes": [
+          { "size": "S", "stock": 12 },
+          { "size": "M", "stock": 18 }
+        ]
+      }
+    ],
+    "tags": [
+      "Boys Wear",
+      "Polo T-Shirt",
+      "Textured",
+      "Casual",
+      "Summer Wear",
+      "Comfort",
+      "Minimal",
+      "Everyday"
+    ],
+    "fit": "Regular Fit",
+    "designType": "Textured",
+    "occasion": "Casual",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-008",
+    "name": "Ivory Embroidered Silk Kurta",
+    "brand": "Zoya Luxe",
+    "price": 2599,
+    "mrp": 4999,
+    "description": "Elegant ivory kurta set in luxurious silk blend featuring intricate zari embroidery. Comes with a flowy matching palazzo and delicately embroidered dupatta for festive occasions.",
+    "category": "Women",
+    "subCategory": "Kurta Sets",
+    "fabric": "Silk Blend",
+    "images": [
+      "/images/tahiliya_ivory_kurta_01.jpeg",
+      "/images/tahiliya_ivory_kurta_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          { "size": "S", "stock": 12 },
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 18 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Festive Wear",
+      "Silk",
+      "Embroidered",
+      "Wedding Collection",
+      "Elegant"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-026",
+    "name": "Black Chevron Designer Kurta",
+    "brand": "Riwayat",
+    "price": 2899,
+    "mrp": 5999,
+    "description": "Contemporary black kurta featuring a stylish chevron woven pattern in premium jacquard silk blend. Designed with a sleek mandarin collar for a bold modern ethnic look.",
+    "category": "Men",
+    "subCategory": "Kurtas",
+    "fabric": "Jacquard Silk Blend",
+    "images": [
+      "/images/black_chevron_kurta_01.jpeg",
+      "/images/black_chevron_kurta_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 17 },
+          { "size": "L", "stock": 14 },
+          { "size": "XL", "stock": 9 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Kurta",
+      "Designer",
+      "Chevron Pattern",
+      "Jacquard",
+      "Festive Wear",
+      "Party Wear",
+      "Modern Ethnic",
+      "Premium"
+    ],
+    "fit": "Slim Fit",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-052",
+    "name": "Classic White Essential Tee",
+    "brand": "Urban Thread",
+    "price": 749,
+    "mrp": 1399,
+    "description": "A clean versatile white t-shirt for everyday comfort. Made from breathable cotton blend with a soft feel and relaxed fit, perfect for daily wear or layering.",
+    "category": "Kids",
+    "subCategory": "T-Shirts",
+    "fabric": "Cotton Blend",
+    "images": ["/images/boys_white_tshirt_01.jpeg"],
+    "variants": [
+      {
+        "color": "White",
+        "sizes": [
+          { "size": "S", "stock": 16 },
+          { "size": "M", "stock": 22 }
+        ]
+      }
+    ],
+    "tags": [
+      "Boys Wear",
+      "T-Shirt",
+      "Basic",
+      "Casual",
+      "Summer Wear",
+      "Minimal",
+      "Everyday",
+      "Essential"
+    ],
+    "fit": "Regular Fit",
+    "designType": "Solid",
+    "occasion": "Casual",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-011",
+    "name": "Blush Pink Anarkali Sharara",
+    "brand": "Aarika Couture",
+    "price": 3299,
+    "mrp": 6499,
+    "description": "Ethereal blush pink Anarkali set with flowy silhouette and layered sharara pants. Paired with organza dupatta adorned with oversized floral prints, perfect for weddings.",
+    "category": "Women",
+    "subCategory": "Anarkali Sets",
+    "fabric": "Silk Blend & Organza",
+    "images": [
+      "/images/aarika_blush_anarkali_01.jpeg",
+      "/images/aarika_blush_anarkali_02.jpeg",
+      "/images/aarika_blush_anarkali_03.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Blush Pink",
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 14 },
+          { "size": "XL", "stock": 6 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Anarkali",
+      "Sharara",
+      "Wedding Wear",
+      "Festive",
+      "Floral Dupatta",
+      "Elegant",
+      "Pastel"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-040",
+    "name": "Solid Slim Fit Casual Shirt",
+    "brand": "Urban Thread",
+    "price": 1399,
+    "mrp": 2799,
+    "description": "Versatile solid casual shirt in soft breathable cotton blend. Designed with a clean minimal aesthetic and slim-fit silhouette, perfect for everyday and smart-casual outings.",
+    "category": "Men",
+    "subCategory": "Shirts",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/solid_shirt_grey.jpeg",
+      "/images/solid_shirt_light_green.jpeg",
+      "/images/solid_shirt_olive.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Charcoal Grey",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 16 },
+          { "size": "XL", "stock": 9 }
+        ]
+      },
+      {
+        "color": "Light Green",
+        "sizes": [
+          { "size": "S", "stock": 9 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 },
+          { "size": "XL", "stock": 8 }
+        ]
+      },
+      {
+        "color": "Olive Green",
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 17 },
+          { "size": "L", "stock": 14 },
+          { "size": "XL", "stock": 7 }
+        ]
+      }
+    ],
+    "tags": [
+      "Casual",
+      "Solid",
+      "Slim Fit",
+      "Minimal",
+      "Everyday Wear",
+      "Smart Casual",
+      "Classic"
+    ],
+    "fit": "Slim Fit",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-046",
+    "name": "Blush Pink Winter Coat Set",
+    "brand": "Urban Thread",
+    "price": 1999,
+    "mrp": 3499,
+    "description": "Elegant blush pink winter outfit set with a soft textured coat, ribbed turtleneck, and pleated checkered skirt. Crafted for warmth and fashionable appeal.",
+    "category": "Kids",
+    "subCategory": "Clothing Sets",
+    "fabric": "Cotton Blend & Wool Blend",
+    "images": [
+      "/images/pink_girls_winter_set_01.jpeg",
+      "/images/pink_girls_winter_set_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Blush Pink",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 16 }
+        ]
+      }
+    ],
+    "tags": [
+      "Girls Wear",
+      "Winter Collection",
+      "Coat Set",
+      "Elegant",
+      "Party Wear",
+      "Warm",
+      "Stylish",
+      "Premium Kidswear"
+    ],
+    "fit": "Regular Fit",
+    "designType": "Textured & Checkered",
+    "occasion": "Party",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-001",
+    "name": "Midnight Blossom Cotton Tunic",
+    "brand": "Inara Blooms",
+    "price": 1299,
+    "mrp": 2499,
+    "description": "Elegant black ethnic tunic with contrast white floral leaf print. Features a notched V-neckline, 3/4 sleeves, and side slits for a comfortable fit.",
+    "category": "Women",
+    "subCategory": "Tunics & Kurtis",
+    "fabric": "100% Cotton",
+    "images": [
+      "/images/black_floral_tunic_01.jpeg",
+      "/images/black_floral_tunic_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Black/White",
+        "sizes": [
+          { "size": "S", "stock": 12 },
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 18 },
+          { "size": "XL", "stock": 5 }
+        ]
+      }
+    ],
+    "tags": ["Ethnic", "Tunic", "Floral Print", "Casual Wear", "Black & White"],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-024",
+    "name": "Black Embroidered Cotton Kurta",
+    "brand": "Riwayat",
+    "price": 2199,
+    "mrp": 4499,
+    "description": "Classic black kurta in premium cotton with intricate tonal embroidery. Designed with modern straight fit and soft collar neckline for festive and evening gatherings.",
+    "category": "Men",
+    "subCategory": "Kurtas",
+    "fabric": "Cotton",
+    "images": ["/images/black_kurta_01.jpeg", "/images/black_kurta_02.jpeg"],
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 16 },
+          { "size": "XL", "stock": 8 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Kurta",
+      "Embroidered",
+      "Festive Wear",
+      "Traditional",
+      "Wedding Wear",
+      "Minimal Luxury",
+      "Evening Wear"
+    ],
+    "fit": "Straight Fit",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-047",
+    "name": "Chic Pink Skirt Set",
+    "brand": "Urban Thread",
+    "price": 1799,
+    "mrp": 2999,
+    "description": "A stylish outfit set featuring a soft ribbed turtleneck paired with a vibrant pink buttoned skirt and cozy cardigan. Perfect for casual outings and parties.",
+    "category": "Kids",
+    "subCategory": "Clothing Sets",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/girls_pink_skirt_set_01.jpeg",
+      "/images/girls_pink_skirt_set_02.jpeg",
+      "/images/girls_pink_skirt_set_03.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Pink",
+        "sizes": [
+          { "size": "S", "stock": 11 },
+          { "size": "M", "stock": 17 }
+        ]
+      }
+    ],
+    "tags": [
+      "Girls Wear",
+      "Skirt Set",
+      "Stylish",
+      "Winter Wear",
+      "Casual",
+      "Party Wear",
+      "Trendy",
+      "Layered Outfit"
+    ],
+    "fit": "Regular Fit",
+    "designType": "Solid & Checkered",
+    "occasion": "Casual",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-013",
+    "name": "White Teddy Graphic Tee Set",
+    "brand": "GenZ Era",
+    "price": 1299,
+    "mrp": 2499,
+    "description": "Playful outfit featuring an oversized graphic t-shirt with teddy print, paired with relaxed-fit beige trousers. Designed for effortless street style and everyday comfort.",
+    "category": "Women",
+    "subCategory": "T-Shirt & Trouser Set",
+    "fabric": "100% Cotton",
+    "images": [
+      "/images/urbanmuse_teddy_tee_01.jpeg",
+      "/images/urbanmuse_teddy_tee_02.jpeg",
+      "/images/urbanmuse_teddy_tee_03.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "White & Beige",
+        "sizes": [
+          { "size": "S", "stock": 18 },
+          { "size": "M", "stock": 30 },
+          { "size": "L", "stock": 22 },
+          { "size": "XL", "stock": 12 }
+        ]
+      }
+    ],
+    "tags": [
+      "Western",
+      "Casual Wear",
+      "Graphic Tee",
+      "Street Style",
+      "Minimal",
+      "Gen Z Fashion",
+      "Everyday Wear"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-038",
+    "name": "Light Blue Formal Shirt",
+    "brand": "Urban Thread",
+    "price": 1599,
+    "mrp": 2999,
+    "description": "Refined light blue formal shirt in premium cotton blend. Designed with slim-fit silhouette and classic collar, ideal for office wear and business meetings.",
+    "category": "Men",
+    "subCategory": "Shirts",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/light_blue_formal_shirt_01.jpeg",
+      "/images/light_blue_formal_shirt_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Light Blue",
+        "sizes": [
+          { "size": "S", "stock": 11 },
+          { "size": "M", "stock": 22 },
+          { "size": "L", "stock": 18 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Formal",
+      "Office Wear",
+      "Slim Fit",
+      "Solid",
+      "Smart Casual",
+      "Business",
+      "Classic"
+    ],
+    "fit": "Slim Fit",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-049",
+    "name": "Elegant Party A-Line Dress",
+    "brand": "Urban Thread",
+    "price": 2199,
+    "mrp": 3799,
+    "description": "Beautifully designed A-line dress collection for girls with soft structured fabric, puff sleeves, and stylish detailing. Perfect for parties and festive outings.",
+    "category": "Kids",
+    "subCategory": "Dresses",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/girls_party_dress_01.jpeg",
+      "/images/girls_party_dress_02.jpeg",
+      "/images/girls_party_dress_03.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Beige Floral",
+        "sizes": [
+          { "size": "S", "stock": 9 },
+          { "size": "M", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Sky Blue",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Wine Red",
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 13 }
+        ]
+      }
+    ],
+    "tags": [
+      "Girls Wear",
+      "Party Dress",
+      "A-Line Dress",
+      "Elegant",
+      "Festive Wear",
+      "Stylish",
+      "Premium",
+      "Occasion Wear"
+    ],
+    "fit": "Regular Fit",
+    "designType": "Solid & Printed",
+    "occasion": "Party",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-004",
+    "name": "Sky Blue Floral Lace Tunic",
+    "brand": "Aetheria",
+    "price": 1299,
+    "mrp": 2499,
+    "description": "A graceful sky blue cotton tunic adorned with soft white floral vine prints and lace-detailed sleeves.",
+    "category": "Women",
+    "subCategory": "Tunics & Kurtis",
+    "fabric": "100% Cotton",
+    "images": [
+      "/images/sky_blue_floral_tunic_01.jpeg",
+      "/images/sky_blue_floral_tunic_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Sky Blue / White Floral",
+        "sizes": [
+          { "size": "S", "stock": 20 },
+          { "size": "M", "stock": 35 },
+          { "size": "L", "stock": 25 },
+          { "size": "XL", "stock": 12 }
+        ]
+      }
+    ],
+    "tags": ["Floral", "Cotton", "Lace Sleeves", "Casual Wear"],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-030",
+    "name": "Beige Heavy Embroidered Set",
+    "brand": "Riwayat",
+    "price": 4999,
+    "mrp": 9999,
+    "description": "Luxurious beige kurta set with intricate all-over embroidery and regal aesthetic. Paired with matching churidar pants, perfect for weddings and grand festive occasions.",
+    "category": "Men",
+    "subCategory": "Kurta Sets",
+    "fabric": "Silk Blend Jacquard",
+    "images": [
+      "/images/beige_heavy_kurta_set_01.jpeg",
+      "/images/beige_heavy_kurta_set_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Beige",
+        "sizes": [
+          { "size": "S", "stock": 6 },
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 },
+          { "size": "XL", "stock": 8 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Kurta Set",
+      "Wedding Wear",
+      "Heavy Embroidery",
+      "Festive Wear",
+      "Luxury",
+      "Traditional",
+      "Designer",
+      "Premium"
+    ],
+    "fit": "Regular Fit",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-051",
+    "name": "Minimal Printed Casual Tee",
+    "brand": "Urban Thread",
+    "price": 799,
+    "mrp": 1499,
+    "description": "A trendy black casual t-shirt with subtle front text detailing. Crafted from soft cotton blend for all-day comfort, perfect for everyday wear.",
+    "category": "Kids",
+    "subCategory": "T-Shirts",
+    "fabric": "Cotton Blend",
+    "images": ["/images/boys_black_tshirt_01.jpeg"],
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          { "size": "S", "stock": 15 },
+          { "size": "M", "stock": 20 }
+        ]
+      }
+    ],
+    "tags": [
+      "Boys Wear",
+      "T-Shirt",
+      "Minimal",
+      "Casual",
+      "Printed",
+      "Everyday",
+      "Comfort",
+      "Trendy"
+    ],
+    "fit": "Regular Fit",
+    "designType": "Printed",
+    "occasion": "Casual",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-005",
+    "name": "Olive Green Floral Kurti",
+    "brand": "Kayaan",
+    "price": 1199,
+    "mrp": 2299,
+    "description": "A stylish olive green kurti featuring bold floral prints and flared bell sleeves.",
+    "category": "Women",
+    "subCategory": "Short Kurtis & Tops",
+    "fabric": "Cotton Blend",
+    "images": ["/images/olive_floral_kurti_01.jpeg"],
+    "variants": [
+      {
+        "color": "Olive Green / White Floral",
+        "sizes": [
+          { "size": "S", "stock": 18 },
+          { "size": "M", "stock": 30 },
+          { "size": "L", "stock": 22 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": ["Floral", "Square Neck", "Bell Sleeves", "Casual Wear"],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-028",
+    "name": "Navy Blue Embroidered Set",
+    "brand": "Riwayat",
+    "price": 3499,
+    "mrp": 6999,
+    "description": "Sophisticated navy blue kurta set with detailed embroidery on placket and cuffs. Paired with matching straight-fit pants for a complete ethnic look.",
+    "category": "Men",
+    "subCategory": "Kurta Sets",
+    "fabric": "Cotton Silk Blend",
+    "images": ["/images/navy_kurta_set_01.jpeg"],
+    "variants": [
+      {
+        "color": "Navy Blue",
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Kurta Set",
+      "Embroidered",
+      "Wedding Wear",
+      "Festive Wear",
+      "Traditional",
+      "Premium",
+      "Complete Outfit"
+    ],
+    "fit": "Regular Fit",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-043",
+    "name": "Sky Blue Cotton Kurta Set",
+    "brand": "Urban Thread",
+    "price": 2199,
+    "mrp": 3999,
+    "description": "Elegant sky blue kurta in breathable cotton with minimal mandarin collar. Paired with classic white pyjama for festive and traditional wear.",
+    "category": "Men",
+    "subCategory": "Ethnic Wear",
+    "fabric": "Cotton",
+    "images": ["/images/skyblue_kurta_set_01.jpeg"],
+    "variants": [
+      {
+        "color": "Sky Blue",
+        "sizes": [
+          { "size": "S", "stock": 7 },
+          { "size": "M", "stock": 15 },
+          { "size": "L", "stock": 13 },
+          { "size": "XL", "stock": 6 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Kurta",
+      "Festive",
+      "Minimal",
+      "Traditional",
+      "Comfort Wear"
+    ],
+    "fit": "Regular Fit",
+    "designType": "Solid",
+    "occasion": "Festive",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-020",
+    "name": "Mint Green Embroidered Set",
+    "brand": "Parijat",
+    "price": 3499,
+    "mrp": 6999,
+    "description": "Elegant mint green kurta set with intricate floral embroidery and straight silhouette. Paired with matching pants and heavily embroidered net dupatta.",
+    "category": "Women",
+    "subCategory": "Kurta Sets",
+    "fabric": "Georgette & Net",
+    "images": ["/images/nooriva_mint_kurta_01.jpeg"],
+    "variants": [
+      {
+        "color": "Mint Green",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 15 },
+          { "size": "XL", "stock": 8 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Festive Wear",
+      "Embroidered",
+      "Kurta Set",
+      "Wedding Wear",
+      "Elegant",
+      "Pastel"
+    ],
+    "fit": "Regular",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-031",
+    "name": "Dusty Pink Textured Shirt",
+    "brand": "Urban Thread",
+    "price": 1399,
+    "mrp": 2699,
+    "description": "Stylish dusty pink shirt with subtle textured weave and slim-fit silhouette. Perfect for casual outings and smart-casual occasions.",
+    "category": "Men",
+    "subCategory": "Shirts",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/pink_textured_shirt_01.jpeg",
+      "/images/pink_textured_shirt_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Dusty Pink",
+        "sizes": [
+          { "size": "S", "stock": 11 },
+          { "size": "M", "stock": 21 },
+          { "size": "L", "stock": 17 },
+          { "size": "XL", "stock": 9 }
+        ]
+      }
+    ],
+    "tags": [
+      "Casual",
+      "Textured",
+      "Slim Fit",
+      "Smart Casual",
+      "Minimal",
+      "Trendy",
+      "Full Sleeve"
+    ],
+    "fit": "Slim Fit",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-012",
+    "name": "Black Ribbed Top Cargo Set",
+    "brand": "Street Theory",
+    "price": 1799,
+    "mrp": 3299,
+    "description": "Trendy street-style outfit with fitted black ribbed top and high-waisted beige cargo pants. Designed for a chic urban look with functional pockets.",
+    "category": "Women",
+    "subCategory": "Top & Trouser Set",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/aarika_cargo_set_01.jpeg",
+      "/images/aarika_cargo_set_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Black & Beige",
+        "sizes": [
+          { "size": "S", "stock": 15 },
+          { "size": "M", "stock": 28 },
+          { "size": "L", "stock": 20 },
+          { "size": "XL", "stock": 12 }
+        ]
+      }
+    ],
+    "tags": [
+      "Western",
+      "Street Style",
+      "Cargo Pants",
+      "Casual Wear",
+      "Minimal",
+      "Urban Fashion",
+      "Everyday Wear"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-042",
+    "name": "Navy Double-Breasted Blazer",
+    "brand": "Urban Thread",
+    "price": 4499,
+    "mrp": 8999,
+    "description": "Sophisticated navy blue double-breasted blazer with structured shoulders and peak lapels. Ideal for formal occasions and business meetings.",
+    "category": "Men",
+    "subCategory": "Blazers",
+    "fabric": "Poly-Viscose Blend",
+    "images": ["/images/navy_blazer_01.jpeg", "/images/navy_blazer_02.jpeg"],
+    "variants": [
+      {
+        "color": "Navy Blue",
+        "sizes": [
+          { "size": "S", "stock": 6 },
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 },
+          { "size": "XL", "stock": 5 }
+        ]
+      }
+    ],
+    "tags": [
+      "Blazer",
+      "Formal",
+      "Double Breasted",
+      "Luxury",
+      "Smart Casual",
+      "Business",
+      "Elegant"
+    ],
+    "fit": "Tailored Fit",
+    "designType": "Solid",
+    "occasion": "Formal",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-003",
+    "name": "Indigo Mandala Block-Print Tunic",
+    "brand": "Neelam Crafts",
+    "price": 1399,
+    "mrp": 2599,
+    "description": "A stunning indigo blue tunic featuring intricate geometric mandala and paisley block prints with elegant bell sleeves.",
+    "category": "Women",
+    "subCategory": "Tunics & Kurtis",
+    "fabric": "Viscose Rayon",
+    "images": [
+      "/images/indigo_block_tunic_01.jpeg",
+      "/images/indigo_block_tunic_02.jpeg",
+      "/images/indigo_block_tunic_03.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Indigo Blue",
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 15 },
+          { "size": "L", "stock": 12 },
+          { "size": "XL", "stock": 6 }
+        ]
+      }
+    ],
+    "tags": [
+      "Block Print",
+      "Mandala",
+      "Bell Sleeves",
+      "Indo-Western",
+      "Indigo"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-033",
+    "name": "Ivory Double-Breasted Blazer",
+    "brand": "Urban Thread",
+    "price": 3999,
+    "mrp": 7999,
+    "description": "Sophisticated ivory double-breasted blazer with structured silhouette and premium finish. Features peak lapels and metallic buttons for formal events.",
+    "category": "Men",
+    "subCategory": "Blazers",
+    "fabric": "Poly-Viscose Blend",
+    "images": ["/images/ivory_blazer_01.jpeg", "/images/ivory_blazer_02.jpeg"],
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          { "size": "S", "stock": 7 },
+          { "size": "M", "stock": 15 },
+          { "size": "L", "stock": 13 },
+          { "size": "XL", "stock": 9 }
+        ]
+      }
+    ],
+    "tags": [
+      "Formal",
+      "Blazer",
+      "Double Breasted",
+      "Smart Casual",
+      "Evening Wear",
+      "Party Wear",
+      "Minimal Luxury",
+      "Tailored Fit"
+    ],
+    "fit": "Slim Fit",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-007",
+    "name": "Navy Micro-Print Cotton Kurti",
+    "brand": "Azure Studio",
+    "price": 1099,
+    "mrp": 2199,
+    "description": "A sleek navy blue kurti featuring subtle micro prints and a structured square neckline.",
+    "category": "Women",
+    "subCategory": "Short Kurtis & Tops",
+    "fabric": "100% Cotton",
+    "images": [
+      "/images/navy_microprint_kurti_01.jpeg",
+      "/images/navy_microprint_kurti_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Navy Blue / White Print",
+        "sizes": [
+          { "size": "S", "stock": 22 },
+          { "size": "M", "stock": 35 },
+          { "size": "L", "stock": 28 },
+          { "size": "XL", "stock": 14 }
+        ]
+      }
+    ],
+    "tags": ["Minimal", "Micro Print", "Cotton", "Office Wear"],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-023",
+    "name": "Maroon Solid Slim Shirt",
+    "brand": "Urban Thread",
+    "price": 1299,
+    "mrp": 2499,
+    "description": "Elegant maroon solid shirt with slim-fit silhouette and clean minimal finish. Crafted from breathable cotton blend for casual and semi-formal occasions.",
+    "category": "Men",
+    "subCategory": "Shirts",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/maroon_shirt_01.jpeg",
+      "/images/maroon_shirt_02.jpeg",
+      "/images/maroon_shirt_03.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Maroon",
+        "sizes": [
+          { "size": "S", "stock": 12 },
+          { "size": "M", "stock": 22 },
+          { "size": "L", "stock": 18 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Casual",
+      "Solid",
+      "Slim Fit",
+      "Minimal",
+      "Everyday Wear",
+      "Smart Casual",
+      "Full Sleeve"
+    ],
+    "fit": "Slim Fit",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-018",
+    "name": "Sky Blue Anarkali Gown",
+    "brand": "Tahiliya Premium",
+    "price": 3499,
+    "mrp": 6999,
+    "description": "Graceful sky blue Anarkali gown in flowy georgette with delicate thread embroidery. Paired with a soft net dupatta for festive occasions and weddings.",
+    "category": "Women",
+    "subCategory": "Anarkali Sets",
+    "fabric": "Faux Georgette & Net",
+    "images": [
+      "/images/aabha_anarkali_01.jpeg",
+      "/images/aabha_anarkali_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Sky Blue",
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 14 },
+          { "size": "XL", "stock": 6 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Anarkali",
+      "Gown",
+      "Festive Wear",
+      "Wedding Wear",
+      "Embroidered",
+      "Elegant",
+      "Pastel"
+    ],
+    "fit": "Flared",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-037",
+    "name": "Olive Green Solid Shirt",
+    "brand": "Urban Thread",
+    "price": 1299,
+    "mrp": 2499,
+    "description": "Classic olive green solid shirt in soft breathable cotton blend. Designed with slim-fit silhouette for everyday wear and smart-casual styling.",
+    "category": "Men",
+    "subCategory": "Shirts",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/olive_shirt_01.jpeg",
+      "/images/olive_shirt_02.jpeg",
+      "/images/olive_shirt_03.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Olive Green",
+        "sizes": [
+          { "size": "S", "stock": 12 },
+          { "size": "M", "stock": 22 },
+          { "size": "L", "stock": 18 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Casual",
+      "Solid",
+      "Slim Fit",
+      "Minimal",
+      "Everyday Wear",
+      "Smart Casual",
+      "Classic"
+    ],
+    "fit": "Slim Fit",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-015",
+    "name": "Oversized Striped Graphic Tee",
+    "brand": "ModeLab",
+    "price": 999,
+    "mrp": 1999,
+    "description": "Trendy oversized t-shirt with bold typography print and sporty striped sleeves. Designed for relaxed streetwear look with breathable comfort.",
+    "category": "Women",
+    "subCategory": "T-Shirts",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/street_theory_tee_01.jpeg",
+      "/images/street_theory_tee_02.jpeg",
+      "/images/street_theory_tee_03.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          { "size": "S", "stock": 20 },
+          { "size": "M", "stock": 35 },
+          { "size": "L", "stock": 25 },
+          { "size": "XL", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Dusty Pink",
+        "sizes": [
+          { "size": "S", "stock": 18 },
+          { "size": "M", "stock": 30 },
+          { "size": "L", "stock": 22 },
+          { "size": "XL", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Brown",
+        "sizes": [
+          { "size": "S", "stock": 15 },
+          { "size": "M", "stock": 28 },
+          { "size": "L", "stock": 20 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Western",
+      "Streetwear",
+      "Oversized",
+      "Graphic Tee",
+      "Sporty",
+      "Casual Wear",
+      "Gen Z Fashion"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-041",
+    "name": "Premium Slim Formal Shirt",
+    "brand": "Urban Thread",
+    "price": 1599,
+    "mrp": 2999,
+    "description": "Elegant slim fit formal shirt in premium cotton blend for a crisp refined appearance. Ideal for office wear and business meetings.",
+    "category": "Men",
+    "subCategory": "Shirts",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/formal_shirt_beige.jpeg",
+      "/images/formal_shirt_mint.jpeg",
+      "/images/formal_shirt_light_blue.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Beige",
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 },
+          { "size": "XL", "stock": 7 }
+        ]
+      },
+      {
+        "color": "Mint Green",
+        "sizes": [
+          { "size": "S", "stock": 9 },
+          { "size": "M", "stock": 17 },
+          { "size": "L", "stock": 14 },
+          { "size": "XL", "stock": 6 }
+        ]
+      },
+      {
+        "color": "Light Blue",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 16 },
+          { "size": "XL", "stock": 8 }
+        ]
+      }
+    ],
+    "tags": [
+      "Formal",
+      "Office Wear",
+      "Slim Fit",
+      "Minimal",
+      "Business",
+      "Elegant",
+      "Classic"
+    ],
+    "fit": "Slim Fit",
+    "designType": "Solid",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-006",
+    "name": "Crimson Red Floral Kurti",
+    "brand": "Rubayat",
+    "price": 1199,
+    "mrp": 2299,
+    "description": "A striking red kurti featuring elegant floral prints and a modern square neckline.",
+    "category": "Women",
+    "subCategory": "Short Kurtis & Tops",
+    "fabric": "100% Cotton",
+    "images": ["/images/crimson_red_floral_kurti_01.jpeg"],
+    "variants": [
+      {
+        "color": "Crimson Red / Beige Floral",
+        "sizes": [
+          { "size": "S", "stock": 20 },
+          { "size": "M", "stock": 35 },
+          { "size": "L", "stock": 25 },
+          { "size": "XL", "stock": 12 }
+        ]
+      }
+    ],
+    "tags": ["Floral", "Square Neck", "Cotton", "Casual Wear"],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-034",
+    "name": "Textured Casual Slim Shirt",
+    "brand": "Urban Thread",
+    "price": 1499,
+    "mrp": 2899,
+    "description": "Modern textured casual shirt with subtle crinkled texture and slim-fit silhouette. Perfect for everyday wear, vacations, and smart-casual outings.",
+    "category": "Men",
+    "subCategory": "Shirts",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/textured_shirt_green.jpeg",
+      "/images/textured_shirt_maroon.jpeg",
+      "/images/textured_shirt_brown.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Olive Green",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 16 },
+          { "size": "XL", "stock": 9 }
+        ]
+      },
+      {
+        "color": "Maroon",
+        "sizes": [
+          { "size": "S", "stock": 9 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 },
+          { "size": "XL", "stock": 8 }
+        ]
+      },
+      {
+        "color": "Brown",
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 17 },
+          { "size": "L", "stock": 14 },
+          { "size": "XL", "stock": 7 }
+        ]
+      }
+    ],
+    "tags": [
+      "Casual",
+      "Textured",
+      "Slim Fit",
+      "Smart Casual",
+      "Minimal",
+      "Everyday Wear",
+      "Vacation Wear"
+    ],
+    "fit": "Slim Fit",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-021",
+    "name": "Contrast Raglan Crop Top",
+    "brand": "Trendify",
+    "price": 799,
+    "mrp": 1599,
+    "description": "Trendy contrast raglan sleeve crop top featuring bold typography print. Designed for streetwear and casual outings.",
+    "category": "Women",
+    "subCategory": "Tops",
+    "fabric": "Cotton Blend",
+    "images": ["/images/zenvy_raglan_top_01.jpeg"],
+    "variants": [
+      {
+        "color": "White & Brown",
+        "sizes": [
+          { "size": "S", "stock": 20 },
+          { "size": "M", "stock": 30 },
+          { "size": "L", "stock": 22 },
+          { "size": "XL", "stock": 12 }
+        ]
+      }
+    ],
+    "tags": [
+      "Western",
+      "Streetwear",
+      "Crop Top",
+      "Graphic",
+      "Casual Wear",
+      "Gen Z Fashion"
+    ],
+    "fit": "Slim",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-029",
+    "name": "Navy Floral Embroidered Kurta",
+    "brand": "Riwayat",
+    "price": 2599,
+    "mrp": 5299,
+    "description": "Stylish navy blue kurta with intricate floral embroidery in golden tones. Crafted from smooth cotton-silk blend for a refined festive look.",
+    "category": "Men",
+    "subCategory": "Kurtas",
+    "fabric": "Cotton Silk Blend",
+    "images": ["/images/navy_floral_kurta_01.jpeg"],
+    "variants": [
+      {
+        "color": "Navy Blue",
+        "sizes": [
+          { "size": "S", "stock": 9 },
+          { "size": "M", "stock": 19 },
+          { "size": "L", "stock": 16 },
+          { "size": "XL", "stock": 11 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Kurta",
+      "Floral Embroidery",
+      "Festive Wear",
+      "Wedding Wear",
+      "Premium",
+      "Modern Ethnic"
+    ],
+    "fit": "Regular Fit",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-022",
+    "name": "Sage Green Anarkali Suit",
+    "brand": "Riwayat",
+    "price": 3999,
+    "mrp": 7999,
+    "description": "Graceful sage green Anarkali suit with intricate zari embroidery and flared silhouette. Comes with matching bottoms and embroidered dupatta for weddings.",
+    "category": "Women",
+    "subCategory": "Anarkali Sets",
+    "fabric": "Silk Blend & Net",
+    "images": ["/images/aabha_sage_anarkali_01.jpeg"],
+    "variants": [
+      {
+        "color": "Sage Green",
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 14 },
+          { "size": "XL", "stock": 6 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Anarkali",
+      "Wedding Wear",
+      "Festive",
+      "Embroidered",
+      "Luxury",
+      "Flared"
+    ],
+    "fit": "Flared",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-035",
+    "name": "Vertical Striped Slim Shirt",
+    "brand": "Urban Thread",
+    "price": 1499,
+    "mrp": 2999,
+    "description": "Trendy vertical striped shirt designed for a sharp modern look. Lightweight cotton blend with slim-fit silhouette for casual and vacation wear.",
+    "category": "Men",
+    "subCategory": "Shirts",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/striped_shirt_pink.jpeg",
+      "/images/striped_shirt_beige.jpeg",
+      "/images/striped_shirt_green.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Pink & White",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 21 },
+          { "size": "L", "stock": 17 },
+          { "size": "XL", "stock": 9 }
+        ]
+      },
+      {
+        "color": "Beige & White",
+        "sizes": [
+          { "size": "S", "stock": 9 },
+          { "size": "M", "stock": 19 },
+          { "size": "L", "stock": 16 },
+          { "size": "XL", "stock": 8 }
+        ]
+      }
+    ],
+    "tags": [
+      "Casual",
+      "Striped",
+      "Slim Fit",
+      "Summer Wear",
+      "Vacation Wear",
+      "Smart Casual",
+      "Trendy"
+    ],
+    "fit": "Slim Fit",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-019",
+    "name": "Oversized Minimal Graphic Tee",
+    "brand": "Urban Thread",
+    "price": 899,
+    "mrp": 1799,
+    "description": "Stylish oversized t-shirt with subtle typography and minimal graphic prints. Soft breathable fabric for everyday casual wear and street styling.",
+    "category": "Women",
+    "subCategory": "T-Shirts",
+    "fabric": "100% Cotton",
+    "images": [
+      "/images/modelab_tee_01.jpeg",
+      "/images/modelab_tee_02.jpeg",
+      "/images/modelab_tee_03.jpeg",
+      "/images/modelab_tee_04.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Maroon",
+        "sizes": [
+          { "size": "S", "stock": 18 },
+          { "size": "M", "stock": 30 },
+          { "size": "L", "stock": 24 },
+          { "size": "XL", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Brown",
+        "sizes": [
+          { "size": "S", "stock": 15 },
+          { "size": "M", "stock": 28 },
+          { "size": "L", "stock": 20 },
+          { "size": "XL", "stock": 12 }
+        ]
+      }
+    ],
+    "tags": [
+      "Western",
+      "Oversized",
+      "Minimal",
+      "Graphic Tee",
+      "Casual Wear",
+      "Street Style",
+      "Everyday Wear"
+    ],
+    "fit": "Oversized",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-025",
+    "name": "Black Textured Jacquard Kurta",
+    "brand": "Riwayat",
+    "price": 2599,
+    "mrp": 5499,
+    "description": "Refined black kurta in premium jacquard fabric with subtle woven motifs. Modern mandarin collar design for festive occasions and wedding functions.",
+    "category": "Men",
+    "subCategory": "Kurtas",
+    "fabric": "Jacquard Silk Blend",
+    "images": [
+      "/images/black_jacquard_kurta_01.jpeg",
+      "/images/black_jacquard_kurta_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          { "size": "S", "stock": 9 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Kurta",
+      "Jacquard",
+      "Textured",
+      "Festive Wear",
+      "Wedding Wear",
+      "Premium",
+      "Minimal Design",
+      "Mandarin Collar"
+    ],
+    "fit": "Regular Fit",
+    "isFeatured": true
+  },
+  {
+    "id": "prod-010",
+    "name": "Rose Pink Sharara Set",
+    "brand": "Nooriva",
+    "price": 2799,
+    "mrp": 5499,
+    "description": "Graceful rose pink kurta sharara set in rich silk blend with delicate zari embroidery. Features flared sharara pants and lightweight embroidered dupatta.",
+    "category": "Women",
+    "subCategory": "Kurta Sets",
+    "fabric": "Silk Blend",
+    "images": [
+      "/images/tahiliya_pink_sharara_01.jpeg",
+      "/images/tahiliya_pink_sharara_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Rose Pink",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 22 },
+          { "size": "L", "stock": 16 },
+          { "size": "XL", "stock": 9 }
+        ]
+      }
+    ],
+    "tags": [
+      "Ethnic",
+      "Sharara Set",
+      "Festive Wear",
+      "Wedding Collection",
+      "Embroidered",
+      "Elegant",
+      "Traditional"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-044",
+    "name": "Maroon Textured Casual Shirt",
+    "brand": "Urban Thread",
+    "price": 1499,
+    "mrp": 2799,
+    "description": "Stylish maroon casual shirt with subtle textured finish and slim-fit silhouette. Soft cotton blend for everyday wear and casual outings.",
+    "category": "Men",
+    "subCategory": "Shirts",
+    "fabric": "Cotton Blend",
+    "images": ["/images/maroon_textured_shirt_01.jpeg"],
+    "variants": [
+      {
+        "color": "Maroon",
+        "sizes": [
+          { "size": "S", "stock": 9 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 14 },
+          { "size": "XL", "stock": 7 }
+        ]
+      }
+    ],
+    "tags": [
+      "Casual",
+      "Textured",
+      "Slim Fit",
+      "Everyday Wear",
+      "Trendy",
+      "Smart Casual"
+    ],
+    "fit": "Slim Fit",
+    "designType": "Textured",
+    "occasion": "Casual",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-017",
+    "name": "Oversized Bear Graphic Tee",
+    "brand": "Zenvy",
+    "price": 899,
+    "mrp": 1799,
+    "description": "Fun oversized t-shirt featuring a bold cartoon bear graphic print. Relaxed fit with soft fabric for casual street style and everyday wear.",
+    "category": "Women",
+    "subCategory": "T-Shirts",
+    "fabric": "100% Cotton",
+    "images": [
+      "/images/zenvy_bear_tee_01.jpeg",
+      "/images/zenvy_bear_tee_02.jpeg",
+      "/images/zenvy_bear_tee_03.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Navy Blue",
+        "sizes": [
+          { "size": "S", "stock": 20 },
+          { "size": "M", "stock": 35 },
+          { "size": "L", "stock": 28 },
+          { "size": "XL", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Brown",
+        "sizes": [
+          { "size": "S", "stock": 18 },
+          { "size": "M", "stock": 30 },
+          { "size": "L", "stock": 24 },
+          { "size": "XL", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Maroon",
+        "sizes": [
+          { "size": "S", "stock": 15 },
+          { "size": "M", "stock": 28 },
+          { "size": "L", "stock": 20 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Western",
+      "Streetwear",
+      "Graphic Tee",
+      "Oversized",
+      "Cartoon Print",
+      "Casual Wear",
+      "Gen Z Fashion"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-039",
+    "name": "Brown Slim Formal Trousers",
+    "brand": "Urban Thread",
+    "price": 1999,
+    "mrp": 3999,
+    "description": "Classic brown formal trousers in slim-fit silhouette. Premium poly-viscose blend for structured finish and all-day comfort.",
+    "category": "Men",
+    "subCategory": "Trousers",
+    "fabric": "Poly-Viscose Blend",
+    "images": [
+      "/images/brown_trousers_01.jpeg",
+      "/images/brown_trousers_02.jpeg",
+      "/images/brown_trousers_03.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Brown",
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 },
+          { "size": "XL", "stock": 9 }
+        ]
+      }
+    ],
+    "tags": [
+      "Formal",
+      "Trousers",
+      "Slim Fit",
+      "Office Wear",
+      "Smart Casual",
+      "Classic",
+      "Tailored"
+    ],
+    "fit": "Slim Fit",
+    "isFeatured": false
+  },
+  {
+    "id": "prod-014",
+    "name": "Beige Polo Knit Trouser Set",
+    "brand": "Elara Studio",
+    "price": 1899,
+    "mrp": 3499,
+    "description": "Refined minimal outfit with soft beige polo knit top and high-waisted tailored trousers. Perfect for office wear and smart casual outings.",
+    "category": "Women",
+    "subCategory": "Top & Trouser Set",
+    "fabric": "Cotton Blend",
+    "images": [
+      "/images/elara_polo_trouser_01.jpeg",
+      "/images/elara_polo_trouser_02.jpeg"
+    ],
+    "variants": [
+      {
+        "color": "Beige",
+        "sizes": [
+          { "size": "S", "stock": 14 },
+          { "size": "M", "stock": 26 },
+          { "size": "L", "stock": 18 },
+          { "size": "XL", "stock": 10 }
+        ]
+      }
+    ],
+    "tags": [
+      "Western",
+      "Office Wear",
+      "Minimal",
+      "Smart Casual",
+      "Korean Style",
+      "Elegant",
+      "Everyday Wear"
+    ],
+    "isFeatured": false
+  }
+]
